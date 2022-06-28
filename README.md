@@ -1,5 +1,5 @@
 # C1
-Notes in order to prepare for the C1 exam at the IDI
+Notes in order to prepare for the C1 exam at the IDI.
 
 ## Organization
 0. 30 - 06 - 2022, green room.
