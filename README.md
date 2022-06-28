@@ -47,7 +47,7 @@ TODO: Complete me.
     4. **Argumentation**: It can intertwine with the opinion point, or if there is no luck, they will resort to other questions.
 
 # Ideas to look at just before the exam
-- Use "they" instead of "he/she".
+- Use "they" instead of "he/she". **Never** use singular "they".
 - One paragraph $\neq$ One sentence.
 
 ## Listening
@@ -67,6 +67,21 @@ TODO: Complete me.
 - Former = Erstwhile = Previous.
 - Buzzword = Palabra común de hoy en día.´
 - Impolite = Rude.
+- Long weekend = Puente (de fiesta).
+- Sales = Rebajas.
+- Scorching = Abrasando.
+- Awkard = Difícil (la partículo *aw* indica algo negativo).
+- Seldom = Muy infrecuentemente.
+- Blurb = Contraportada.
+- Unbearable = ~~Inosable~~ Insoportable.
+- Leisure = Ocio.
+- Runner-up = Segundo en una competición.
+- To stop dead = Cease = Parar.
+- Narrow = Estrecho.
+- Lead = Correa (de perro).
+- Trafic jam = Superatasco.
+- Bike line = Carril bici.
+- Stimulus/Stimuli = Estímulo/s.
 
 ### Expressions++
 - I'm just *playing devil's advocate*.
@@ -86,4 +101,22 @@ TODO: Complete me.
 - Come on, stop *having me on* (laughing at me), tell me the truth.
 - I expect to *move up the career ladder* in two years at most.
 - I have always considered my grandpa *the wise owl* of the family.
-- 
+- Kill him with my very own hands? *With great gusto*.
+- I'm asking this *out of curiosity*, which was the name of the...?
+- *Contrary to popular belief*, panda bears are designed to be carnivorous.
+- So, in order to check if your theory is correct, you need a *guinea pig*, right?
+- Today I will stay *at home*.
+- *I find myself* having trouble focusing.
+- Hey! That wasn't funny at all! You really *have bad milk* (mala uva).
+- Thou shalt never *judge a book by the cover*.
+- Sorry, I *went blank*. What were we talking about?
+- *Hope is the last thing you lose*.
+- Well, the way I *reflect on/mull over/sleep on* the matter is that...
+- Actually I'm an anthropologist, human reality is my *cup of tea*.
+- The body was found in an impossible place, *there is something that doesn't add up*...
+- Could you *practice what you preach*? Would you turn the other cheek? (From "*Where Is the Love?*", by The Black Eyed Peas).
+- You are despising my *cultural/natural heritage*! Hesitate right now!
+- I won't arrive there *in time*, I got the *rush hour* (hora del atasco).
+- I, *for once/exceptionally*, believe that...
+- Do you feel the *generation gap* with your colleagues?
+- TAL.IA is a project *by means of which* we will be able to use deep learning in order to aid the d/Deaf community.
