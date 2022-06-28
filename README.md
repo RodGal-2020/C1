@@ -21,7 +21,6 @@ TODO: Complete me. Perhaps NOT.
 - They like numbers.
 - Si oigo algo que sé escribir aunque no tenga sentido lo escribo.
 
-
 ## Writing
 They value:
 - Task completion (talking about the point).
