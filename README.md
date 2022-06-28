@@ -18,12 +18,36 @@ TODO: Complete me.
 TODO: Complete me.
 
 ## Writing
+They value:
+- Task completion (talking about the point).
+- Organisation.
+- Accuracy (not committing errors).
+- Range of C1 structures and vocabulary.
+
+Recommendations:
+- 4 paragraphs.
+- Making a *mind map* before beginning.
+- The last point can be used as a conclussion.
+- Idea to begin with: "There are always two sides to any situation. In the case of...".
+
+### Article
+- Subjective and personal.
+
+### Essay
+- Instead of "*everybody knows*", begin with "*usually, It seems like*".
+- Speculation: Instead of "*he is here*", try "*he **must** be here*".
+
 
 ### Letter of complaint
 - Instead of *"To whom may interest"*, use *"The 3 Roses Restaurant manager"*, and 
 
 ## Speaking
-TODO: Complete me.
+- Take care of the clothing, avoiding things like [this](https://live.staticflickr.com/23/33353986_b9f7469f5a_w.jpg).
+- Try the following:
+    - Use *used to/would* (remember that the last can only be used with dynamic verbs)
+    - I must highlight that...
+    - I see your point, but...
+    - Certainly, ...
 
 ### TASK A: Monologue
 * Duration: 15' for preparation + 3-4' for execution.
@@ -82,6 +106,9 @@ TODO: Complete me.
 - Trafic jam = Superatasco.
 - Bike line = Carril bici.
 - Stimulus/Stimuli = Estímulo/s.
+- Two-storey house = Casa de dos plantas.
+- Resentfull = Enfadado.
+- Never ever = Never++.
 
 ### Expressions++
 - I'm just *playing devil's advocate*.
@@ -120,3 +147,5 @@ TODO: Complete me.
 - I, *for once/exceptionally*, believe that...
 - Do you feel the *generation gap* with your colleagues?
 - TAL.IA is a project *by means of which* we will be able to use deep learning in order to aid the d/Deaf community.
+- *There are always two sides to any situation*. In the case of...
+- This model achieves the *state-of-the-art* in the SLR task.
