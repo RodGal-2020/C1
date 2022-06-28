@@ -12,10 +12,15 @@ Notes in order to prepare for the C1 exam at the IDI
 7. 13:00 the exam ends.
 
 ## Reading
-TODO: Complete me.
+TODO: Complete me. Perhaps NOT.
 
 ## Listening
-TODO: Complete me.
+
+### One-shot
+- There won't be any names.
+- They like numbers.
+- Si oigo algo que sé escribir aunque no tenga sentido lo escribo.
+
 
 ## Writing
 They value:
@@ -32,8 +37,11 @@ Recommendations:
 
 ### Article
 - Subjective and personal.
+- Talking about experience.
+- $\frac{\text{serious + fun}}{2}$
 
 ### Essay
+- Objective point of view.
 - Instead of "*everybody knows*", begin with "*usually, It seems like*".
 - Speculation: Instead of "*he is here*", try "*he **must** be here*".
 
@@ -48,13 +56,14 @@ Recommendations:
     - I must highlight that...
     - I see your point, but...
     - Certainly, ...
+    - **IN THIS TALK**...
 
 ### TASK A: Monologue
 * Duration: 15' for preparation + 3-4' for execution.
     - Never more that 4' for execution.
 * Recommended organisation:
     1. **Introduction**
-        - To start with, I'll... then I'll mention... after that I'll consider... Finally, I'll summarise my presentation.
+        - To start with, I'll... then I'll mention... after that I'll consider... Finally, I'll summarise my presentation / sum up with a personal reflection.
     2. **Pros and cons**
     3. **Examples**
     4. **Personal opinion**
@@ -74,10 +83,6 @@ Recommendations:
 - Use "they" instead of "he/she". **Never** use singular "they".
 - One paragraph $\neq$ One sentence.
 
-## Listening
-### One-shot
-- There won't be any names.
-- They like numbers.
 
 ## Miscellaneous vocabulary
 - Loim = Solomillo.
@@ -109,6 +114,11 @@ Recommendations:
 - Two-storey house = Casa de dos plantas.
 - Resentfull = Enfadado.
 - Never ever = Never++.
+- In the end = Eventually.
+- ~~In the beggining of~~.
+- MP = Member of parliament.
+- On / In my way = La primera "de camino", la segunda "en el camino" en el sentido físico.
+- Glass ceiling = El techo de cristal.
 
 ### Expressions++
 - I'm just *playing devil's advocate*.
@@ -149,3 +159,6 @@ Recommendations:
 - TAL.IA is a project *by means of which* we will be able to use deep learning in order to aid the d/Deaf community.
 - *There are always two sides to any situation*. In the case of...
 - This model achieves the *state-of-the-art* in the SLR task.
+- There is *no other* thing to have in mind *but* the uncertainty of...
+- I'm in *dire need* of a hero.
+- *One must look for themselves*.
