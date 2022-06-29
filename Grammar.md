@@ -53,6 +53,9 @@ As a rule of thumb, the -ing is used to indicate that whatever happened it took 
     - I used to smoke.
     - I am used to driving.
     - I'm getting used to driving in the rain.
+- **Try**:
+    - To open -> Con un objetivo, habitualmente imposible.
+    - Opening -> A modo de experimento. "Intentemos abrir esto a ver si...".
 
 > **BEHOLD THE ALLMIGHTY TABLE OF SECRETS!**
 
@@ -79,8 +82,24 @@ As a rule of thumb, the -ing is used to indicate that whatever happened it took 
 ## They
 - Someone is at the door, **aren't they**?
 
-## Conectors
+## Conectors / Signposting
 - Even though = Although = Despite the fact that
+
+| Addition | Comparison | Contrast | Time | Cause | Result |
+|----------|------------|----------|------|--------|--------|
+| In addition | Likewise | However | In the meantime | Because | Consequently |
+| Furthermore | Similarly | Whereas | At present | Due to this | Hence |
+| Besides | In the same way | Nevertheless | Nowadays | Because of | As a result |
+| Moreover | As well | Having said that | Meanwhile | Since | Thus |
+| Additionally | Equally | Conversely | Eventually | As | Therefore |
+
+| Summary | Illustrating | Sequence | Place | Emphasis | Clarification |
+|----------|------------|----------|------|--------|--------|
+| To sum up | For example | First(ly) | There | Indeed | In other words |
+| In short | Such as | finally | Beyond | Notably | To put it in another way |
+| In conclusion | For instance | Next | On the other side | Absolutely | Paraphrasing |
+| On the whole | As revealed by | Subsequently | Next to | Especially | To put it differently |
+
 
 ## Modals
 Must > Should = Ought to ~ Probably > Will ~ Bound to > May > ~~April~~ Could > Might > Can't

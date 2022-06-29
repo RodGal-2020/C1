@@ -36,6 +36,7 @@ Recommendations:
 - Making a *mind map* before beginning.
 - The last point can be used as a conclussion.
 - Idea to begin with: "There are always two sides to any situation. In the case of...".
+- Never use "*but,*".
 
 ### Article
 - Subjective and personal.
@@ -49,7 +50,9 @@ Recommendations:
 
 
 ### Letter of complaint
-- Instead of *"To whom may interest"*, use *"The 3 Roses Restaurant manager"*, and 
+- Instead of *"To whom may interest"*, use *"The 3 Roses Restaurant manager"*, and:
+    - "*kind/best regards*", if I know to whom I'm writing, or
+    - "*faithfully*", if not.
 
 ## Speaking
 - Take care of the clothing, avoiding things like [this](https://live.staticflickr.com/23/33353986_b9f7469f5a_w.jpg).
@@ -121,6 +124,10 @@ Recommendations:
 - MP = Member of parliament.
 - On / In my way = La primera "de camino", la segunda "en el camino" en el sentido físico.
 - Glass ceiling = El techo de cristal.
+- Convenience = Effectiveness = Improvement.
+- Expulsion, not ~~expellment~~.
+- Trade union = Sindicato.
+- Withhold = Retain = Control oneself.
 
 ### Expressions++
 - I'm just *playing devil's advocate*.
@@ -164,3 +171,6 @@ Recommendations:
 - There is *no other* thing to have in mind *but* the uncertainty of...
 - I'm in *dire need* of a hero.
 - *One must look for themselves*.
+- He got the job *against all odds*.
+- During summer, I always try to *go of / away from the beaten track*, I'm a fan of alternative tourism.
+- I *haven't time / a clue*.
