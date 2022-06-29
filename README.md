@@ -50,9 +50,9 @@ Recommendations:
 
 
 ### Letter of complaint
-- Instead of *"To whom may interest"*, use *"The 3 Roses Restaurant manager"*, and:
-    - "*kind/best regards*", if I know to whom I'm writing, or
-    - "*faithfully*", if not.
+- Instead of *"To whom may interest"*, use *"The 3 Roses Restaurant\nManager"*, and:
+    - "*kind/best regards*" or "*yours, sencirely*", if I know to whom I'm writing, or
+    - "*yours, faithfully*", if not.
 
 ## Speaking
 - Take care of the clothing, avoiding things like [this](https://live.staticflickr.com/23/33353986_b9f7469f5a_w.jpg).
