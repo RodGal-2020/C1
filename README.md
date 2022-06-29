@@ -1,6 +1,9 @@
 # C1
 Notes in order to prepare for the C1 exam at the IDI.
 
+- [Grammar section](Grammar.md)
+- [Vocabulary section]()
+
 ## Organization
 0. 30 - 06 - 2022, green room.
 1. Arrive at 8:45 at least.
