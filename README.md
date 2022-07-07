@@ -45,7 +45,7 @@ Recommendations:
 
 ### Essay
 - Objective point of view.
-- Instead of "*everybody knows*", begin with "*usually, It seems like*".
+- Instead of "*everybody knows*", begin with "*usually, It seems that*".
 - Speculation: Instead of "*he is here*", try "*he **must** be here*".
 
 
@@ -61,7 +61,31 @@ Recommendations:
     - I must highlight that...
     - I see your point, but...
     - Certainly, ...
+    - In spite of / Despite being a common practice... / Despite the fact that it's a common practice...
+    - You know that **they** say...
+    - People who get used to living like that...
+    - Inversion: Never have I heard / *Not only do* I think that --- but also that ---...
+    - It's unlikely that...
+    - It would **seem / appear** that...
+    - Distancing expressions: apparantly, according to, may / might, claim.
+    - Wish (or "If only" if enfatic) + Past simple (present) / Past perfect (regret the past)
+    - I would rather / I
+    - You *didn't need to do that* -> You *needn’t* do it
+    - Mixed conditional: "Things *wouldn't be* like that if they *had acted* in some other way".
+    - We *are supposed to*, at least, try.
+    - I saw he hit the dog (whole action) VS I saw he hitting the dog (only part of the action).
+    - "It *seemed like* a good idea at the time, but in fact it wasn't".
+    - Something *smells funny* in this matter...
+    - It will be *an overwhelming problem* if we don't do something now.
+    - *It's no use trying*.
+    - Things are *about to change*.
+    - *What happens is that...*
+    - *They're to blame for what happened.*
+    - It was *me* who... (informal)
+    - It's just a *red herring*.
+    - *They seem to be sympathetic*, but the truth is that they...
     - **IN THIS TALK**...
+    - But as always *there are two sides to everything / every story*, and in this case...
 
 ### TASK A: Monologue
 * Duration: 15' for preparation + 3-4' for execution.
@@ -69,24 +93,28 @@ Recommendations:
 * Recommended organisation:
     1. **Introduction**
         - To start with, I'll... then I'll mention... after that I'll consider... Finally, I'll summarise my presentation / sum up with a personal reflection.
+        - Present the topic.
+        - Yes / No.
     2. **Pros and cons**
-    3. **Examples**
+    3. **Examples / Personal experience**
     4. **Personal opinion**
 * Notes:
     - I can ask the meaning of a word if it's a critical one.
     - I can use a watch to know the time.
 
 ### TASK B: Dialogue
+
 * Duration: 8-9' in total.
 * Temporal distribution (going from concrete to abstract):
-    1. **Description**: Tell the common denominator of the images, and the start speaking about 2. Do **NOT** describe the photos (never say "I can see a...").
+    1. **Description**: Tell the common denominator of the 4 given images, and the start speaking about 2. Do **NOT** describe the photos (never say "I can see a...").
     2. **Narration**: Past, present **or** future. Sample question: "Which one is more relatable?".
-    3. **Opinion**: Sample question: "What makes a good classroom?".
+    3. **Opinion**: Sample question: "What makes a good classroom?". From this point I should expect being under *heavy fire*.
     4. **Argumentation**: It can intertwine with the opinion point, or if there is no luck, they will resort to other questions.
 
 # Ideas to look at just before the exam
 - Use "they" instead of "he/she". **Never** use singular "they".
 - One paragraph $\neq$ One sentence.
+- "Which" y compañía adquieren el número del sustantivo al que sustituyen.
 
 
 ## Miscellaneous vocabulary
