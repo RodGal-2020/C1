@@ -157,6 +157,28 @@ Recommendations:
 - Expulsion, not ~~expellment~~.
 - Trade union = Sindicato.
 - Withhold = Retain = Control oneself.
+- Coping skills: The methods a person uses to deal with stressful situations.
+- Antithesis.
+- Hypocrite = */ˈhipəˌkrit/*
+- Oxymoron: A term that contradicts itself. For example: ‘humane slaughter’. An act of cruelty cannot be kind.
+- The trolley problem.
+- Wealth and fame.
+- Unintentional.
+- Fiancé / Fiancée.
+- Split up = Ending a relationship.
+- Bike line.
+- Downtown = Centro de la ciudad.
+- Sights = Monumentos.
+- Memorial.
+- The so-called...
+- Mass tourism = Overtourism.
+- Asylum = Shelter.
+- Majority / Minority.
+- An exit visa.
+- Weep = Cry.
+- Cap and trade police = Pollution limit which can be sold.
+- Desertification.
+- Renewable energy.
 
 ### Expressions++
 - I'm just *playing devil's advocate*.
@@ -203,3 +225,9 @@ Recommendations:
 - He got the job *against all odds*.
 - During summer, I always try to *go of / away from the beaten track*, I'm a fan of alternative tourism.
 - I *haven't time / a clue*.
+- He can only do that, he's a *one trick pony*.
+- I'm the King of Fools and baby you're the Queen of *White Lies*.
+- The word "queer" is an *umbrella term*.
+- I would like to *bring your attention to* another fundamental point made in the report.
+- Have a *positive impact* on something / someone.
+- It's *the backbone of* society.
